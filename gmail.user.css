@@ -61,21 +61,6 @@
     .brC-aT5-aOt-ato-Kp-Jw::before {
         border-top: 1px solid #717171;
     }
-    .aHS-bnw .qj,
-    .TO > .aHS-bu1 .qj,
-    .aHS-bnu .qj,
-    .aHS-bnq .qj,
-    .aHS-bns .qj,
-    .aHS-bnv .qj,
-    .aHS-aHO .qj,
-    .aHS-aHP .qj,
-    .aHS-bnx .qj,
-    .CL::before,
-    div.TH,
-    .aJZ .qj,
-    div.TH {
-        filter: invert(100%);
-    }
     .qr {
         border-color: #fff;
     }
@@ -191,7 +176,6 @@
     .G-atb .aqJ .amD,
     .iG .h0 .adg {
         margin-left: 20px;
-        filter: invert(100%);
     }
     .aBS .d-Na-J3.d-Na-JX-ax3.d-Na-JX {
         opacity: 0.7;
