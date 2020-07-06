@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Gmail by DM
 @namespace      https://github.com/gpaulu/Dark-by-DM
-@version        5.13.0
+@version        5.13.1
 @description    Dark mode for Gmail
 @author         Denis Mignanelli
 ==/UserStyle== */
@@ -1318,7 +1318,7 @@
     .zE {
         color: #c7c7c7;
         background: rgb(35, 35, 35);
-        border-left: 3px solid #4b70ab;
+        border-left: 5px solid #4b70ab;
     }
     .yO {
         background: #212121;
