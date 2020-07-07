@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Gmail by DM
 @namespace      https://github.com/gpaulu/Dark-by-DM
-@version        5.13.3
+@version        5.13.4
 @description    Dark mode for Gmail
 @author         Denis Mignanelli
 ==/UserStyle== */
@@ -108,9 +108,6 @@
     .J-Kh {
         border-top: 1px solid #2d2d2d;
     }
-    .G-Ni .G-asx {
-        filter: invert(100%);
-    }
     .afL .J-M-Jz {
         border-right: 1px solid #696969;
     }
@@ -173,10 +170,6 @@
     }
     .aBS .d-Na-J3.d-Na-JX-ax3.d-Na-JX {
         opacity: 0.7;
-        filter: invert(100%);
-    }
-    .G-asx,
-    .d-Na-J3.d-Na-JX-ax3.d-Na-hFsbo {
         filter: invert(100%);
     }
     .Dj {
