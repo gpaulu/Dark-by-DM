@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Gmail by DM
 @namespace      https://github.com/gpaulu/Dark-by-DM
-@version        5.13.8
+@version        5.13.9
 @description    Dark mode for Gmail
 @author         Paul Unger
 ==/UserStyle== */
@@ -1772,6 +1772,18 @@
     .Ad,
     .NQ .afM {
         filter: invert(1);
+    }
+    .tA {
+        background-image: url(https://www.gstatic.com/images/icons/material/system/1x/schedule_white_20dp.png);
+    }
+    .W2 {
+        background-image: url(https://www.gstatic.com/images/icons/material/system/1x/attach_money_white_20dp.png);
+    }
+    .W3 {
+        background-image: url(https://www.gstatic.com/images/icons/material/system/1x/shopping_cart_white_20dp.png);
+    }
+    .W4 {
+        background-image: url(https://www.gstatic.com/images/icons/material/system/1x/store_white_20dp.png);
     }
 }
 
