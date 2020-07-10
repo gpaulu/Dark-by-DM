@@ -1,10 +1,11 @@
 /* ==UserStyle==
 @name           Dark Gmail by DM
 @namespace      https://github.com/gpaulu/Dark-by-DM
-@version        5.13.5
+@version        5.13.6
 @description    Dark mode for Gmail
-@author         Denis Mignanelli
+@author         Paul Unger
 ==/UserStyle== */
+/* Forked From Denis Mignanelli */
 @-moz-document url-prefix("https://mail.google.com/mail/") {
     .aic {
         margin: 0;
@@ -2474,6 +2475,10 @@ url-prefix("https://mail.google.com/mail/") {
     .brC-brG-bsf-Jz-Jw,
     .brC-brG-a9i-Jz-Jw {
         background-color: #222222 !important;
+    }
+    .qY * {
+        background-color: #1f1f1f !important;
+        color: #e8e8e8 !important;
     }
 }
 
