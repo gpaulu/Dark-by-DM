@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Gmail by DM
 @namespace      https://github.com/gpaulu/Dark-by-DM
-@version        5.13.6
+@version        5.13.7
 @description    Dark mode for Gmail
 @author         Paul Unger
 ==/UserStyle== */
@@ -2476,7 +2476,7 @@ url-prefix("https://mail.google.com/mail/") {
     .brC-brG-a9i-Jz-Jw {
         background-color: #222222 !important;
     }
-    .qY * {
+    .qY {
         background-color: #1f1f1f !important;
         color: #e8e8e8 !important;
     }
